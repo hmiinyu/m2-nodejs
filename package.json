@@ -1,0 +1,25 @@
+{
+  "name": "m2-nodejs",
+  "version": "1.0.0",
+  "description": "The package is provided utilities and facilities for nodejs.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmiinyu/m2-nodejs.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "nodejs",
+    "mysql",
+    "mongodb",
+    "redis",
+    "m2",
+    "m2-nodejs"
+  ],
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "querystring": "^0.2.0",
+    "redis": "^2.8.0"
+  }
+}
