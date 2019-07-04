@@ -1,6 +1,6 @@
 ## m2-nodejs
 
-[![](m2-nodejs.svg)](https://github.com/hmiinyu/m2-nodejs.git) <br/>
+[![](https://img.shields.io/badge/m2--nodejs-v1.0.1-green.svg)](https://github.com/hmiinyu/m2-nodejs.git) <br/>
 The package is provided utilities and facilities for nodejs.
 
 ### Usage
